@@ -2,7 +2,7 @@
   ##
 
 - 🔭 I’m currently working on AgainPay 
-- 🌱 I’m currently learning Html | Css | Loading JavaScript | Loading React
+- 🌱 I’m currently learning PHP | Html | Css | Loading JavaScript | Loading React | Loading JavaScript
 - 📫 How to reach me: **brunoseveriano2@hotmail.com**
 
 <div style="display: inline_block"><br>
